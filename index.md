@@ -37,19 +37,19 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 ![9](https://m.media-amazon.com/images/M/MV5BMTQyNzAwOTUxOF5BMl5BanBnXkFtZTcwMTE0OTc5OQ@@._V1_FMjpg_UX1000_.jpg)
 
 **10.Captain America: The Winter Soldier**
-![10](https://upload.wikimedia.org/wikipedia/en/9/9e/Captain_America_The_Winter_Soldier_poster.jpg)
+![10](https://a.ltrbxd.com/resized/sm/upload/o6/qg/sr/lk/captain-america-winter-soldier-1200-1200-675-675-crop-000000.jpg?k=ec1677e6bd)
 
 **11.Guardians of the Galaxy**
 ![11](https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_.jpg)
 
 **12.Guardians of the Galaxy Vol. 2**
-![12](https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/Guardians_of_the_Galaxy_Vol_2_poster.jpg/220px-Guardians_of_the_Galaxy_Vol_2_poster.jpg)
+![12](https://i.scdn.co/image/ab67616d0000b273fcf4ebc762da8a67788176b0)
 
 **13.Avengers: Age of Ultron**
 ![13](https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg)
 
 **14.Ant-Man**
-![14](https://upload.wikimedia.org/wikipedia/en/1/12/Ant-Man_%28film%29_poster.jpg)
+![14](https://static.tvtropes.org/pmwiki/pub/images/ant_man_9.jpg)
 
 **15.Captain America: Civil War**
 ![15](https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5c/Civil_War_Final_Poster.jpg/revision/latest?cb=20160310172110)
