@@ -2,28 +2,39 @@
 
 You can use this website to keep track of the right order if you're planning to watch the [MCU(Marvel Cinematic Universe)](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+*This is the chronological order*
 
-### Markdown
+Watching a movie franchise such as MCU is a big hassle if not watched in the right order, that is why this page is here to help you watch through it all in the right order
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*This includes every show that have a connection to the MCU*
 
 ```markdown
-Syntax highlighted code block
+1. #Captain America: The First Avenger
+!(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JjVy9EAxJL545dXUDVrjvRb7KN9ip6Mbx5PG74L3Xobl5BoG)
+```
+```markdown
+2. #Captain Marvel
+!(https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg)
+```
 
-# Header 1
-## Header 2
-### Header 3
+```markdown
+3. #Ironman
+!(https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSzFXKSHWb3-5LAMWLxGAB5HzqsefGX4eYINaSHLd9JDNRu-LiM)
+```
 
-- Bulleted
-- List
+```markdown
+4. #Ironman 2
+!(https://m.media-amazon.com/images/M/MV5BMTM0MDgwNjMyMl5BMl5BanBnXkFtZTcwNTg3NzAzMw@@._V1_FMjpg_UX1000_.jpg)
+```
 
-1. Numbered
-2. List
+```markdown
+5. #The Incredible Hulk
+!(https://m.media-amazon.com/images/M/MV5BMTUyNzk3MjA1OF5BMl5BanBnXkFtZTcwMTE1Njg2MQ@@._V1_.jpg)
+```
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+```markdown
+6. #Thor
+!(https://m.media-amazon.com/images/M/MV5BOGE4NzU1YTAtNzA3Mi00ZTA2LTg2YmYtMDJmMThiMjlkYjg2XkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
