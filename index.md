@@ -8,10 +8,10 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 
 *This includes every show that have a connection to the MCU*
 
-```markdown
+
 **1.Captain America: The First Avenger**
 ![1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5JjVy9EAxJL545dXUDVrjvRb7KN9ip6Mbx5PG74L3Xobl5BoG)
-```
+
 ```markdown
 **2.Captain Marvel**
 ![2](https://m.media-amazon.com/images/M/MV5BMTE0YWFmOTMtYTU2ZS00ZTIxLWE3OTEtYTNiYzBkZjViZThiXkEyXkFqcGdeQXVyODMzMzQ4OTI@._V1_.jpg)
