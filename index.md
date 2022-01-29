@@ -54,6 +54,21 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 **15.Captain America: Civil War**
 ![15](https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5c/Civil_War_Final_Poster.jpg/revision/latest?cb=20160310172110)
 
+**16.Spider-Man: Homecoming**
+![16](https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg)
+
+**17.Doctor Strange**
+![17](https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg)
+
+**18.Black Panther**
+![18](https://user-images.githubusercontent.com/98653255/151673310-f759693a-c624-4a04-813f-dfc6d57f902a.png)
+
+**19.Thor: Ragnarok**
+![19](https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg)
+
+**20.Ant-Man and The Wasp**
+![20](https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg)
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
