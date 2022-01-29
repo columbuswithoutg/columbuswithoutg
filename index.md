@@ -73,7 +73,7 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 ![14](https://flxt.tmsimg.com/assets/p12495840_b1t_h10_aa.jpg)
 
 **15.Captain America: Civil War**
-![15](https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5c/Civil_War_Final_Poster.jpg/revision/latest?cb=20160310172110)
+![15](https://i.ytimg.com/vi/s_CCgrbTRsw/maxresdefault.jpg)
 
 **15.Marvel's Agents of S.H.I.E.L.D Season 3**
 ![15](https://flxt.tmsimg.com/assets/p11863073_b1t_h9_aa.jpg)
@@ -170,12 +170,4 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 
 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/columbuswithoutg/columbuswithoutg/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You can watch some of the series posted in there in [Netflix](netflix.com).
