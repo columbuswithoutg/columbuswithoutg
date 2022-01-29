@@ -170,4 +170,6 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 
 
 
-You can watch some of the series posted in there in [Netflix](netflix.com).
+You can watch some of the series posted in there in [Netflix](https://www.netflix.com/ph/).
+
+Made By: Kevin Cesar J. Jacobo
