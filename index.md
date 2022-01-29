@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+# Marvel Cinematic Universe Watch Order
 
-You can use the [editor on GitHub](https://github.com/columbuswithoutg/columbuswithoutg/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use this website to keep track of the right order if you're planning to watch the [MCU(Marvel Cinematic Universe)](https://en.wikipedia.org/wiki/Marvel_Cinematic_Universe)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
