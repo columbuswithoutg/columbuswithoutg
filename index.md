@@ -49,16 +49,16 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 ![13](https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg)
 
 **14.Ant-Man**
-![14](https://static.tvtropes.org/pmwiki/pub/images/ant_man_9.jpg)
+![14](https://www.denofgeek.com/wp-content/uploads/2019/04/ant-man-1-main.jpg?fit=1200%2C675)
 
 **15.Captain America: Civil War**
 ![15](https://static.wikia.nocookie.net/marvelcinematicuniverse/images/5/5c/Civil_War_Final_Poster.jpg/revision/latest?cb=20160310172110)
 
 **16.Spider-Man: Homecoming**
-![16](https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg)
+![16](https://www.axn-asia.com/sites/axn-asia.com/files/styles/image_1170x658/public/ct_series_f_primary_image/spiderman_homecoming_-_keyart.jpg?itok=-nQcKrew)
 
 **17.Doctor Strange**
-![17](https://upload.wikimedia.org/wikipedia/en/a/a1/Doctor_Strange_%282016_film%29_poster.jpg)
+![17](https://www.denofgeek.com/wp-content/uploads/2016/10/doctor-strange-1.jpg?fit=1600%2C800)
 
 **18.Black Panther**
 ![18](https://user-images.githubusercontent.com/98653255/151673310-f759693a-c624-4a04-813f-dfc6d57f902a.png)
