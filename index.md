@@ -46,13 +46,13 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 ![10](https://a.ltrbxd.com/resized/sm/upload/o6/qg/sr/lk/captain-america-winter-soldier-1200-1200-675-675-crop-000000.jpg?k=ec1677e6bd)
 
 **10.Marvel's Agents of S.H.I.E.L.D Season 1**
-![10](https://miro.medium.com/max/600/1*4nHm0qOkydHEddMUCorf4w.jpeg)
+![10](https://miro.medium.com/max/2560/1*12DdBYhwt9jS-sNvmjIyJg.jpeg)
 
 **11.Guardians of the Galaxy**
 ![11](https://m.media-amazon.com/images/M/MV5BMTAwMjU5OTgxNjZeQTJeQWpwZ15BbWU4MDUxNDYxODEx._V1_.jpg)
 
 **12.Guardians of the Galaxy Vol. 2**
-![12](https://img1.hotstarext.com/image/upload/f_auto,t_web_hs_2_5x/sources/r1/cms/prod/4338/644338-h)
+![12](https://d23.com/app/uploads/2017/04/1180w-600h_042017_guardians-of-the-galaxy-everything-you-need-to-know-780x440.jpg)
 
 **12.Daredevil Season 1**
 ![12](https://www.denofgeek.com/wp-content/uploads/2015/11/maxresdefault-1.jpg?fit=1280%2C720)
@@ -61,7 +61,7 @@ Watching a movie franchise such as MCU is a big hassle if not watched in the rig
 ![13](https://m.media-amazon.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_FMjpg_UX1000_.jpg)
 
 **13.Marvel's Agents of S.H.I.E.L.D Season 2**
-![13](https://media.comicbook.com/uploads1/2014/09/agents-of-shield-season-2-synopsis-106061.jpg)
+![13](https://images-na.ssl-images-amazon.com/images/I/811gGvu6DJL._RI_.jpg)
 
 **14.Ant-Man**
 ![14](https://www.denofgeek.com/wp-content/uploads/2019/04/ant-man-1-main.jpg?fit=1200%2C675)
